@@ -3,17 +3,17 @@
 - Theory
   - Procedural programming: 🖐️ used
   - Imperative programming: 
-  - Structured programming: 🖐️ used
+  - Structured programming: 🙋 explained
   - Non-structured programming: 👂 heard
-  - Functional programming: 🖐️ used
+  - Functional programming: 🙋 explained
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 🖐️ used
-  - Object-based programming:
-  - Generic programming: 👂 heard
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🖐️ used
+  - Generic programming: 🖐️ used
   - Concurrent computing: 
-  - Asynchronous programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Reactive programming: 
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🖐️ used
   - Functional-reactive (FRP):
   - Automata-based programming:
   - Domain-specific languages:
@@ -27,57 +27,57 @@
   - Anemic domain model:
   - Class composition:
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 👂 heard
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 🖐️ used
-  - Hidden class:🖐️ used
-  - Object form: 🖐️ used
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class:🙋 explained
+  - Object form: 🙋 explained
   - Instance: 🎓 known
   - Introspection: 🎓 known
   - Reflection: 🎓 known
   - The diamond problem:
 - GRASP
   - Information expert: 
-  - Creator: 👂 heard
-  - Controller: 👂 heard
+  - Creator: 🖐️ used
+  - Controller: 🖐️ used
   - Indirection: 
   - Low coupling:
-  - High cohesion:
-  - Protected variations:
-  - Pure fabrication:
+  - High cohesion: 
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP): 👂 heard
-  - Open–closed principle (OCP): 
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
   - Liskov substitution principle (LSP): 
-  - Interface segregation principle (ISP):
-  - Dependency inversion principle (DIP): 
+  - Interface segregation principle (ISP):🖐️ used
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method:  👂 heard
-  - Abstract Factory: 👂 heard
+  - Singleton: 🖐️ used
+  - Factory Method:  🖐️ used
+  - Abstract Factory: 🖐️ used
   - Adapter:
   - Observer:
-  - Strategy: 👂 heard
+  - Strategy: 🖐️ used
   - Facade:
   - Proxy:
   - Chain of Responsibility:
   - Command:
   - Iterator: 
   - State:
-  - Bridge:
-  - Builder: 👂 heard
+  - Bridge: 🖐️ used
+  - Builder: 🖐️ used
   - Prototype: 
   - Composite:
   - Decorator:
