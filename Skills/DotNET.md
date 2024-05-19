@@ -1,70 +1,70 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR
+  - Strengths and weaknesses of .NET: 👂 heard
+  - Stateful and stateless services: 
+  - Asynchronous and synchronous programming: 👂 heard
+  - Task-based asynchronous pattern: 
+  - Garbage collection in .NET: 👂 heard
+  - .NET runtime versions and support: 
+  - I/O-bound, CPU-bound tasks:
+  - Real-time applications with SignalR:
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
-  - Middleware and pipeline configuration
-  - Modular applications
+  - .NET assemblies: 
+  - NuGet package management: 👂 heard
+  - Dependency management in .NET: 👂 heard
+  - Dependency Injection in .NET: 
+  - Inversion of Control (IoC):
+  - IoC containers in .NET:
+  - Middleware and pipeline configuration:
+  - Modular applications:
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
-  - Windows Services and Linux Daemons
-  - Hosting and Deployment models
-  - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
-  - Multithreading with Task Parallel Library (TPL)
-  - Performance monitoring and diagnostics
+  - Command line interface (CLI) tools:
+  - .NET CLI:
+  - Windows Services and Linux Daemons:
+  - Hosting and Deployment models:
+  - IIS and Kestrel web server:
+  - Environment variables and configuration:
+  - File system I/O operations:
+  - Multithreading with Task Parallel Library (TPL):
+  - Performance monitoring and diagnostics:
 - APIs and Framework Features
-  - LINQ
-  - SignalR for real-time web functionality
-  - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
-  - Cryptography and secure data handling
-  - Memory and resource management
-  - Globalization and localization
+  - LINQ: 👂 heard
+  - SignalR for real-time web functionality: 
+  - High-performance RPC with `gRPC`:
+  - Security features (authentication, authorization): 
+  - Cryptography and secure data handling:
+  - Memory and resource management:
+  - Globalization and localization: 🎓 known
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
-  - SSL/TLS for secure connections
-  - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - HTTP/HTTPS support: 👂 heard
+  - WebSockets for real-time communication: 👂 heard
+  - TCP/UDP networking: 👂 heard
+  - SSL/TLS for secure connections: 👂 heard
+  - Efficient network communication with `gRPC`:
+  - HTTP/2 and HTTP/3 support: 👂 heard
+  - Network security (DDoS, XSS, CSRF prevention): 👂 heard
+  - Serialization and deserialization (JSON, XML): 👂 heard
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
-  - Logging and tracing
-  - Application monitoring and telemetry
-  - Debugging tools and strategies
-  - Performance profiling and analysis
+  - Unit testing with frameworks like xUnit, NUnit: 👂 heard
+  - Integration testing:
+  - Logging and tracing:
+  - Application monitoring and telemetry:
+  - Debugging tools and strategies: 🖐️ used
+  - Performance profiling and analysis: 
 - Data Access and ORM
-  - Entity Framework Core
-  - Dapper
-  - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - Entity Framework Core: 
+  - Dapper:
+  - ADO.NET for database access:
+  - Data modeling and migration:
+  - Repository and Unit of Work patterns:
+  - CRUD operations:
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
-  - Profiling and performance analysis
-  - Memory leak detection
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 🎓 known
+  - Debugging and diagnostic tools: 🎓 known
+  - Profiling and performance analysis:
+  - Memory leak detection: 🖐️ used
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
@@ -78,13 +78,13 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
-  - Attributes and annotations
-  - Interoperability with other .NET languages
+  - C# syntax and language fundamentals: 🙋 explained
+  - Advanced C# features (LINQ, async/await, delegates, events); 🎓 known
+  - Reflection and dynamic programming: 🎓 known
+  - Data types and collections: 
+  - Generics and extension methods: 👂 heard
+  - Attributes and annotations: 👂 heard
+  - Interoperability with other .NET languages: 👂 heard
 - `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core:
   - Blazor
-  - Razor Syntax
-  - RESTful API development
+  - Razor Syntax:
+  - RESTful API development:

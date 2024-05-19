@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming:
+  - Generic programming: 👂 heard
+  - Concurrent computing: 
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 
+  - Functional-reactive (FRP):
+  - Automata-based programming:
+  - Domain-specific languages:
+  - Multi-paradigm programming:
+  - Metaprogramming:
+  - Actor model:
+  - Lambda calculus: 👂 heard
+  - Black box:
+  - Information hiding:
+  - Aspect-oriented programming:
+  - Anemic domain model:
+  - Class composition:
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class:🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🎓 known
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem:
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 
+  - Low coupling:
+  - High cohesion:
+  - Protected variations:
+  - Pure fabrication:
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 
+  - Liskov substitution principle (LSP): 
+  - Interface segregation principle (ISP):
+  - Dependency inversion principle (DIP): 
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton: 👂 heard
+  - Factory Method:  👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter:
+  - Observer:
+  - Strategy: 👂 heard
+  - Facade:
+  - Proxy:
+  - Chain of Responsibility:
+  - Command:
+  - Iterator: 
+  - State:
+  - Bridge:
+  - Builder: 👂 heard
+  - Prototype: 
+  - Composite:
+  - Decorator:
+  - Flyweight:
+  - Mediator:
+  - Memento:
+  - Template Method:
+  - Visitor:
+  - Reactor:
+  - Active object:
+  - Delegation:
